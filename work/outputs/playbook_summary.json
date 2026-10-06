@@ -1,0 +1,19 @@
+{
+  "portfolio_total_urls": 30000,
+  "clients_count": 32,
+  "unseen_holdout_clients": 6,
+  "unseen_holdout_rows": 2325,
+  "holdout_base_rate": 0.391,
+  "rule_baseline_p50": 0.44,
+  "model_honest_p50": 0.76,
+  "lift_percentage_points": 32.0,
+  "action_breakdown": {
+    "monitor_only": 10679,
+    "meta_and_snippet_optimization": 7357,
+    "targeted_content_update": 6967,
+    "comprehensive_refresh": 4073,
+    "ux_and_readability_revamp": 882,
+    "depth_expansion_or_merge": 42
+  },
+  "operational_floor_p50": 0.6
+}
